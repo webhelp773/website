@@ -1,5 +1,5 @@
 DirectoryIndex https://webhelp773.github.io/website/
 
 # Custom Error Pages (Change paths to match your actual files)
-ErrorDocument 404 /https://webhelp773.github.io/website/
+ErrorDocument 404 /index.html
 
